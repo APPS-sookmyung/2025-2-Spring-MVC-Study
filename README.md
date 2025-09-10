@@ -1,6 +1,8 @@
 # 2025-2-Spring-MVC-Study
 [APPS] 2025-2 'Spring-MVC' 스터디 저장소🖥️
 
+<br>
+
 ## 스터디원 및 정기회의 일정
 - 신정은, 우채아
 - 매주 수 22:00
@@ -43,3 +45,8 @@
 - 제목은 `[n주차 Spring-MVC 스터디] 이름`으로 설정합니다.
   - ex) [2주차 Spring-MVC 스터디] 홍길동
 - 내용은 어려웠던 점과 배운 점 등 자유롭게 작성합니다.
+
+<br>
+
+## 스터디 자료
+[스프링 MVC 1편 - 백엔드 웹 개발 핵심 기술](https://www.inflearn.com/course/%EC%8A%A4%ED%94%84%EB%A7%81-mvc-1)
